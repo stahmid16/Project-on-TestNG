@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suite name="Automate DFM">
+    <test name="Registation with Email Validation">
+        <classes >
+            <class name="testRunner.RegistationTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="Reset">
+        <classes >
+            <class name="testRunner.ResetTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="Random item generate">
+        <classes >
+            <class name="testRunner.RandomIteamTestRunner">
+            </class>
+        </classes>
+    </test>
+
+
+    <test name="Update Email">
+        <classes >
+            <class name="testRunner.UpdateEmailTestRUnner">
+            </class>
+        </classes>
+    </test>
+    <test name="Admin Login">
+        <classes >
+            <class name="testRunner.LoginTestRunne">
+            </class>
+        </classes>
+    </test>
+
+</suite>
